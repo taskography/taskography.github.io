@@ -11,7 +11,7 @@ affil: University of Toronto
 affil_link: https://rvl.cs.toronto.edu/
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: chris.png
+img: florian.jpg
 
 # Secondary affiliation
 affil2: Vector Institute
