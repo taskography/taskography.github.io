@@ -29,9 +29,6 @@ layout: home
 
 ### Quick links
 
-<font color="red">Please watch this page for our code release announcement in the next few days</font>
-
-
 
 
 <table>
@@ -71,7 +68,7 @@ layout: home
 		</td>
 		<td>
 			<div class="people-name text-center">
-            	<a href="https://github.com/taskography/taskography">Code / Data (TBA)</a>
+            	<a href="https://github.com/taskography/taskography">Code / Data</a>
             </div>
 		</td>
 	</tr>
@@ -94,3 +91,18 @@ layout: home
 	</p>
 </figure>
 
+
+### Citation
+
+```
+@inproceedings{agia2022taskography,
+  title={Taskography: Evaluating robot task planning over large 3D scene graphs},
+  author={Agia, Christopher and Jatavallabhula, {Krishna Murthy} and Khodeir, Mohamed and Miksik, Ondrej and Vineet, Vibhav and Mukadam, Mustafa and Paull, Liam and Shkurti, Florian},
+  booktitle={Conference on Robot Learning},
+  pages={46--58},
+  year={2022},
+  organization={PMLR}
+}
+```
+
+<>
