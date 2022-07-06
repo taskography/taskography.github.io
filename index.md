@@ -10,26 +10,24 @@ layout: home
 #### Conference on Robot Learning (CoRL) 2021
 
 
-<!-- ![](assets/img/3dsg.png) -->
+### Overview
 
-<p align="center">
+<!-- <p align="center">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/mM4v5hP4LdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-
-3D scene graphs (**3DSG**s) [[1]](https://arxiv.org/abs/2002.06289),[[2]](https://3dscenegraph.stanford.edu/) are an emerging description; unifying symbolic, topological, and metric scene representations. However, typical 3DSGs contain hundreds of objects and symbols even for small environments; rendering task planning on the _full_ graph impractical. We construct **Taskography**, the first large-scale robotic task planning benchmark over 3DSGs. While most benchmarking efforts in this area focus on _vision-based planning_, we systematically study _symbolic_ planning, to decouple planning performance from visual representation learning. We observe that, among existing methods, neither classical nor learning-based planners are capable of real-time planning over _full_ 3DSGs. Enabling real-time planning demands progress on _both_ (a) sparsifying 3DSGs for tractable planning and (b) designing planners that better exploit 3DSG hierarchies. Towards the former goal, we propose **SCRUB**, a task-conditioned 3DSG sparsification method; enabling classical planners to match (and surpass) state-of-the-art learning-based planners. Towards the latter goal, we propose **SEEK**, a procedure enabling learning-based planners to exploit 3DSG structure, reducing the number of replanning queries required by current best approaches by an order of magnitude. We will open-source all code and baselines to spur further research along the intersections of robot task planning, learning and 3DSGs.
-
+</p> -->
 
 <figure>
 	<p align="center">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/mM4v5hP4LdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	<img src="assets/img/3dsg.png" alt="An example 3D scene graph with unary and binary attributes." width="500"/>
 	<figcaption><p align="center">A 3D scene graph (3DSG) annotated with plannable attributes.</p></figcaption>
 	</p>
 </figure>
 
+3D scene graphs (**3DSG**s) [[1]](https://arxiv.org/abs/2002.06289),[[2]](https://3dscenegraph.stanford.edu/) are an emerging description; unifying symbolic, topological, and metric scene representations. However, typical 3DSGs contain hundreds of objects and symbols even for small environments; rendering task planning on the _full_ graph impractical. We construct **Taskography**, the first large-scale robotic task planning benchmark over 3DSGs. While most benchmarking efforts in this area focus on _vision-based planning_, we systematically study _symbolic_ planning, to decouple planning performance from visual representation learning. We observe that, among existing methods, neither classical nor learning-based planners are capable of real-time planning over _full_ 3DSGs. Enabling real-time planning demands progress on _both_ (a) sparsifying 3DSGs for tractable planning and (b) designing planners that better exploit 3DSG hierarchies. Towards the former goal, we propose **SCRUB**, a task-conditioned 3DSG sparsification method; enabling classical planners to match (and surpass) state-of-the-art learning-based planners. Towards the latter goal, we propose **SEEK**, a procedure enabling learning-based planners to exploit 3DSG structure, reducing the number of replanning queries required by current best approaches by an order of magnitude. We will open-source all code and baselines to spur further research along the intersections of robot task planning, learning and 3DSGs.
+
 
 ### Quick links
-
-
 
 <table>
 	<tr>
@@ -104,5 +102,3 @@ layout: home
   organization={PMLR}
 }
 ```
-
-<>
