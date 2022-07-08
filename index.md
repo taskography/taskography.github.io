@@ -9,7 +9,7 @@ layout: home
 
 #### Conference on Robot Learning (CoRL) 2021
 
-<table style="width=100%;border-collapse:collapse;verticle-align:middle;text-align:center;">
+<table style="width=100%;border-collapse:border-spacing:0px;collapse;verticle-align:middle;text-align:center;">
 	<tr>
 		<td>
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/mM4v5hP4LdA" title="Taskography YoutTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
