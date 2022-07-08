@@ -20,10 +20,8 @@ layout: home
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/mM4v5hP4LdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</td>
 		<td>
-			<figure>
-				<img src="assets/img/3dsg.png" alt="An example 3D scene graph with unary and binary attributes." width="500"/>
-				<figcaption><p style="text-align:center;">A 3D scene graph (3DSG) annotated with plannable attributes.</p>
-			</figure>
+			<img src="assets/img/3dsg.png" alt="An example 3D scene graph with unary and binary attributes." width="500"/>
+			<figcaption><p style="text-align:center;">A 3D scene graph (3DSG) annotated with plannable attributes.</p>
 		</td>
 	</tr>
 	</tbody>
