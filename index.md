@@ -32,7 +32,7 @@ layout: home
 	<tr>
 	    <td>
 	    	<div class="col-xs-15">
-				<a href="https://openreview.net/pdf?id=nWLt35BU1z_">
+				<a href="https://arxiv.org/abs/2207.05006">
 					<img src="assets/img/pdf-preview.png" alt="Click to open the taskography paper - opens as PDF" width="300"/>
 				</a>
 	        </div>
@@ -55,7 +55,7 @@ layout: home
 	<tr>
 		<td>
 			<div class="people-name text-center">
-            	<a href="https://openreview.net/pdf?id=nWLt35BU1z_">Paper</a>
+            	<a href="https://arxiv.org/abs/2207.05006">Paper</a>
             </div>
 		</td>
 		<td>
@@ -65,7 +65,7 @@ layout: home
 		</td>
 		<td>
 			<div class="people-name text-center">
-            	<a href="https://github.com/taskography/taskography">Code / Data</a>
+            	<a href="https://github.com/taskography">Code / Data</a>
             </div>
 		</td>
 	</tr>
